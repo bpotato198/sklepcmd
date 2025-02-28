@@ -4,7 +4,7 @@ jest to aplikacja CLI
 
 #instalacja
 *ze zrodla*
-1. zainstaluj kompilator Clang
+1. zainstaluj LLVM
 2. zainstaluj CMake
 3. kliknij na `code` a potem `download .zip`
 4. wypakuj gdzies plik np na pulpit
