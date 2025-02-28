@@ -19,3 +19,7 @@ jest to aplikacja CLI
 3. pobierze ci plik main.exe
 4. kliknij w go
 5. działa
+
+
+# *to nie jest oficjalne oprogramowanie od Mojang lub od Microsoft i nie jest wspierane przez Mojang albo Microsoft*
+# *this program is not endorsed or made by Mojang or Microsoft its only a fan made tool 
