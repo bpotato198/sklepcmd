@@ -1,17 +1,14 @@
 # sklepcmd
 Generator komend sklepcmd to program do generowania komend dla tych, ktorzy nie umieja komend albo nie chca ciagle ich wpisywać
-jest to aplikacja CLI
+jest to aplikacja CLI w Rust
 
-#instalacja
+# instalacja
 *ze zrodla*
-1. zainstaluj LLVM
-2. zainstaluj CMake
-3. kliknij na `code` a potem `download .zip`
-4. wypakuj gdzies plik np na pulpit
-5. uruchom CMD
-6. wpisz `cd /scieszka/do/kodu`
-7. wpisz jak juz jestes w folderze z kodem:
-8. `mkdir build` potem `cd build` potem `cmake ..` i `cmake --build .`
+1. zainstaluj Rust
+2. git clone to repozytorium
+3. wpisz `cd sklepcmd`
+4. wpisz `cargo build`
+5. i na koncu `cargo run`
 
 *plik binarny*
 1. kliknij na releases
